@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "task": "Buy groceries",
+      "category": "work",
+      "deadline": "04/01/2025,07:16 PM",
+      "message": "i have done the task half"
+    },
+    {
+      "id": "1",
+      "task": "Buy groceries",
+      "category": "work",
+      "deadline": "04/01/2025,07:16 PM",
+      "message": "i have done the task half"
+    },
+    {
+      "id": "78b1",
+      "task": "",
+      "category": "",
+      "deadline": "2025-04-01T19:16",
+      "message": ""
+    },
+    {
+      "id": "c558",
+      "task": "",
+      "category": "",
+      "deadline": "2025-04-01T19:16",
+      "message": ""
+    },
+    {
+      "id": "095c",
+      "task": "workout",
+      "category": "",
+      "deadline": "2025-04-01T06:52",
+      "message": "UPPER BODY TRAINING"
+    }
+  ]
+}
